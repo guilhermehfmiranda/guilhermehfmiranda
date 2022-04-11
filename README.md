@@ -1,6 +1,6 @@
 
 📫 How to reach me ...
-... Linkedin --> www.linkedin.com/in/guilhermehfmiranda
+- ... Linkedin --> www.linkedin.com/in/guilhermehfmiranda
 
 <!---
 guilhermehfmiranda/guilhermehfmiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
